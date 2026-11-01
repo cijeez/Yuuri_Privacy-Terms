@@ -40,8 +40,8 @@ Your versatile companion for Discord
 
 Yuuri stores only what she needs to chat with you. You can turn off memory or ask for your data to be deleted at any time.
 
-- [Privacy Policy]({{ '/privacy/' | relative_url }})
-- [Terms of Service]({{ '/terms/' | relative_url }})
+- [Privacy Policy](https://github.com/cijeez/Yuuri_Privacy-Terms/blob/main/PRIVACY_POLICY.md)
+- [Terms of Service](https://github.com/cijeez/Yuuri_Privacy-Terms/blob/main/TERMS_OF_SERVICE.md)
 
 ## Contact
 
