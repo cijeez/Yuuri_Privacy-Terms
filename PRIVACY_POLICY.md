@@ -1,8 +1,3 @@
----
-layout: default
-title: Privacy Policy
-permalink: /privacy/
----
 # Yuuri Bot — Privacy Policy
 
 **Effective date:** 1 November 2026

@@ -1,9 +1,3 @@
----
-layout: default
-title: Terms of Service
-permalink: /terms/
----
-
 # Yuuri Bot — Terms of Service
 
 **Effective date:** 1 November 2026

@@ -1,6 +1,3 @@
-layout: default
-title: Yuuri Bot
-
 # Yuuri 🌸
 
 Your versatile companion for Discord
